@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.shoopingapp.ecommerce.service</groupId>
-    <artifactId>ProjectE-CommerceService</artifactId>
+    <artifactId>shooping</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -76,7 +76,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.shoopingapp.ecommerce.service</mainClass>
+                            <mainClass>com.mypackage.MyClass</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
