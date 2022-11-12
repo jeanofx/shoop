@@ -76,7 +76,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>shooping.MyClass</mainClass>
+                            <mainClass>shooping-1.0-SNAPSHOT.MyClass</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
